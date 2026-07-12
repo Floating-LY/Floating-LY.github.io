@@ -40,7 +40,32 @@ Beyond cloud infrastructure, my techniques have been applied to:
 - Senior Area Chair, KDD ADS Track, 2025
 - Program Committee Member: KDD, WWW, ICDM, CIKM
 
+<h2 id="pubs">📰 Publications</h2>
+### 2026
 
+- **Yang Luo**, Yiheng Wang, Linyi Long, Tengwei Cai, Xiaofeng Gao, Guihai Chen. **STDPS: State-Aware Spatio-Temporal Workload Distribution Prediction for Cloud Service Scaling**. *IEEE Transactions on Services Computing (TSC)*, 2026. **CCF-A**
+- **Yang Luo**, Zhemeng Yu, Yikang Fu, Wei Lu, Lintao Ma, Xiaofeng Gao, Guihai Chen. **JointScaler: A Hierarchical Multi-Indicator Distribution Forecasting Approach for Uncertainty-Aware Joint Scaling in Cloud Services**. *International Joint Conference on Artificial Intelligence (IJCAI)*, 2026. **CCF-A**
+- Jiadong Chen, **Yang Luo**, Xiuqi Huang, Fuxin Jiang, Yangguang Shi, Tieying Zhang, Xiaofeng Gao. **Uncertainty-Aware Online Time Series Multi-Step Forecasting Framework in Cloud Systems**. *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, 2026. **CCF-A**
+- Mohan Gao, Zhemeng Yu, **Yang Luo**, Lintao Ma, Yinbo Sun, Yuchen Fang, Xiaofeng Gao. **Macro-Micro Collaborative Learning for Logical Data Center Microservice Indicators Forecasting**. *The Web Conference (WWW)*, 2026. **CCF-A**
+
+### 2025
+
+- Zhemeng Yu, **Yang Luo**, Yucen Gao, Yinbo Sun, Xiaofeng Gao, Lintao Ma, Guihai Chen. **CausalScaler: A Causality-Driven Autoscaling Framework for the Cloud**. *DASFAA (4)*, 2025. **CCF-B**: 488-498
+- Jiale Zhang, **Yang Luo**, Yunlong Cheng, Leixia Wang, Xiaofeng Gao, Xiaochun Yang, Guihai Chen. **Timely Watchers: Cost-Effective Schedule for Urban Sensor Patrols**. *International Workshop on Web-Age Information Management (WASA)*, 2025. **CCF-C** 🏆 *Best Paper Award*
+
+### 2024
+
+- **Yang Luo**, Mohan Gao, Zhemeng Yu, Haoyuan Ge, Xiaofeng Gao, Tengwei Cai, Guihai Chen. **Integrating System State into Spatio Temporal Graph Neural Network for Microservice Workload Prediction**. *SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)*, 2024. **CCF-A**
+- Mengjin Liu, Yuxin Zuo, **Yang Luo**, Daiqiang Wu, Peng Zhen, Jiecheng Guo, Xiaofeng Gao. **Weather-Conditioned Multi-graph Network for Ride-Hailing Demand Forecasting**. *International Conference on Service-Oriented Computing (ICSOC)*, 2024. **CCF-B**
+- Shiyang Zhou, Zehao Gu, Yun Xiong, **Yang Luo**, Qiang Wang, Xiaofeng Gao. **REDI: Recurrent Diffusion Model for Probabilistic Time Series Forecasting**. *International Conference on Information and Knowledge Management (CIKM)*, 2024. **CCF-B**
+- Zehao Gu, Shiyang Zhou, Yun Xiong, **Yang Luo**, Hongrun Ren, Qiang Wang, Xiaofeng Gao, Philip S. Yu. **MSTEM: Masked Spatiotemporal Event Series Modeling for Urban Undisciplined Events Forecasting**. *International Conference on Information and Knowledge Management (CIKM)*, 2024. **CCF-B**
+
+### 2023
+
+- Jiadong Chen, **Yang Luo**, Xiuqi Huang, Fuxin Jiang, Yangguang Shi, Tieying Zhang, Xiaofeng Gao. **IPOC: An Adaptive Interval Prediction Model based on Online Chasing and Conformal Inference for Large-Scale Systems**. *SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)*, 2023. **CCF-A**
+- **Yang Luo**, Zehao Gu, Shiyang Zhou, Yun Xiong, Xiaofeng Gao. **Meteorology-Assisted Spatio-Temporal Graph Network for Uncivilized Urban Event Prediction**. *IEEE International Conference on Data Mining (ICDM)*, 2023. **CCF-B**
+
+  
 <h2 id="research-projects">💼 Research Projects</h2>
 
 ### 📌 National Key R&D Program of China (2024.12 – 2027.11)
