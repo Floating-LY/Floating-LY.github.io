@@ -112,10 +112,10 @@ Beyond cloud infrastructure, my techniques have been applied to:
 
 1. 🥇 Best Paper Award, WASA 2025
 2. 🎖 Huatai Technology Securities Scholarship (2024)
-3. 🎓 Doctoral Scholarship, SJTU (2025)
-4. 🎓 Doctoral Scholarship, SJTU (2024)
-5. 🎓 Doctoral Scholarship, SJTU (2023)
-6. 🎓 Master Scholarship, SJTU (2022)
+3. 🎓 Doctoral Academic Scholarship, SJTU (2025)
+4. 🎓 Doctoral Academic Scholarship, SJTU (2024)
+5. 🎓 Doctoral Academic Scholarship, SJTU (2023)
+6. 🎓 Master Academic Scholarship, SJTU (2022)
 
 ## 📝 Patents
 1. 📌 Resource allocation determination, model training method and device
