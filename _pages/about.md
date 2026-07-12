@@ -49,7 +49,7 @@ Beyond cloud infrastructure, my techniques have been applied to:
 ### 📌 Joint Key Program of National Natural Science Foundation of China (2024.01 – 2027.12)
 - Title: Collaborative Perception & Data Management for Intelligent Aircraft Manufacturing
 - Role: Core Team Member
-- 
+  
 ### 📌 CCF-Ant Green Computing Special Research Fund (2024.09 – Present)
 - Full Title: Dynamic Scaling Scheduling Scheme for GPU Services Oriented to Cloud Resources
 - Role: Student Lead 
