@@ -19,12 +19,12 @@ I believe the ultimate value of data mining research lies in its tangible impact
 
 ## 🌐 Industrial Experience
 
-### 🤝 Cloud Service Resource Autoscaling — Ant Group (Fundamental Intelligent Dept.) | 2023.06 – Present
+### 🤝 Cloud Service Resource Autoscaling — Ant Group  | 2023.06 – Present
   - Long-term research intern designing a **cross-service joint prediction and auto-scaling framework** for GPU inference clusters. 
   - Replaced traditional single-service threshold-based scaling by modeling dynamic inter-service dependencies via spatio-temporal graph neural networks. 
   - Online A/B experiments demonstrated a **33.10% reduction in CPU core-hour consumption**, directly contributing to greener computing and lower inference costs.
 
-### 🤝 Database Workload Prediction — ByteDance (Fundamental Architecture Dept) | 2022.07 – 2023.05
+### 🤝 Database Workload Prediction — ByteDance  | 2022.07 – 2023.05
   - Research intern on dynamic database workload prediction.
   - Developed an **ensemble online adaptive tracking algorithm** with a **theoretical linear convergence guarantee**. 
   - Deployed to improve cluster resource allocation efficiency in production environments.
@@ -41,6 +41,8 @@ Beyond cloud infrastructure, my techniques have been applied to:
 - Program Committee Member: KDD, WWW, ICDM, CIKM
 
 ## 💼 Research Projects
+{: #research-projects }
+
 ### 📌 National Key R&D Program of China (2024.12 – 2027.11)
 - Title: Intelligent Quality Control and Traceability Technology for Manufacturing Process
 - Role: Core Team Member
@@ -65,10 +67,12 @@ Beyond cloud infrastructure, my techniques have been applied to:
 - Role: Student Lead (Principal Student Investigator)
 
 ### 📌 National Key R&D Program of China (2020.11 – 2023.10)
-- Full Title: Theory and Methodology of Manufacturing Big Data Value Mining
+- Title: Theory and Methodology of Manufacturing Big Data Value Mining
 - Role: Core Team Member
 
 ## 🎓 Education Background
+{: #education-background }
+
 ### Doctor of Philosophy (2024.04 – 2028.03 (expected))
 - Institution: Shanghai Jiao Tong University, School of Computer Science
 - Program: Combined Master-PhD Track
@@ -80,6 +84,8 @@ Beyond cloud infrastructure, my techniques have been applied to:
 - Institution: Shanghai Jiao Tong University, Department of Computer Science
 
 ## 🏆 Honors & Awards
+{: #honors-awards }
+
 1. 🥇 Best Paper Award, WASA 2025
 2. 🎖 Huatai Technology Securities Scholarship (2024)
 3. 🎓 Doctoral Scholarship, SJTU (2025)
