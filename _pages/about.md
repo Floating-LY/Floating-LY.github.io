@@ -41,10 +41,11 @@ Beyond cloud infrastructure, my techniques have been applied to:
 - Program Committee Member: KDD, WWW, ICDM, CIKM
 
 <h2 id="pubs">📰 Publications</h2>
+
 ### 2026
 
 - **Yang Luo**, Yiheng Wang, Linyi Long, Tengwei Cai, Xiaofeng Gao, Guihai Chen. **STDPS: State-Aware Spatio-Temporal Workload Distribution Prediction for Cloud Service Scaling**. *IEEE Transactions on Services Computing (TSC)*, 2026. **CCF-A**
-- **Yang Luo**, Zhemeng Yu, Yikang Fu, Wei Lu, Lintao Ma, Xiaofeng Gao, Guihai Chen. **JointScaler: A Hierarchical Multi-Indicator Distribution Forecasting Approach for Uncertainty-Aware Joint Scaling in Cloud Services**. *International Joint Conference on Artificial Intelligence (IJCAI)*, 2026. **CCF-A**
+- **Yang Luo**, Zhemeng Yu, Yikang Fu, Wei Lu, Lintao Ma, Xiaofeng Gao, Guihai Chen. **JointScaler: A Hierarchical Multi-Indicator Distribution Forecasting Approach for Uncertainty-Aware Joint Scaling in Cloud Services**. *International Joint Conference on Artificial Intelligence (IJCAI)*, 2026. **CCF-A** *(Submission time applies to the 6th edition CCF recommended list)* 
 - Jiadong Chen, **Yang Luo**, Xiuqi Huang, Fuxin Jiang, Yangguang Shi, Tieying Zhang, Xiaofeng Gao. **Uncertainty-Aware Online Time Series Multi-Step Forecasting Framework in Cloud Systems**. *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, 2026. **CCF-A**
 - Mohan Gao, Zhemeng Yu, **Yang Luo**, Lintao Ma, Yinbo Sun, Yuchen Fang, Xiaofeng Gao. **Macro-Micro Collaborative Learning for Logical Data Center Microservice Indicators Forecasting**. *The Web Conference (WWW)*, 2026. **CCF-A**
 
