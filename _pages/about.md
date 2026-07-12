@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yang Luo (罗旸) - Homepage"
+title: "Yang Luo (罗旸)"
 author_profile: true
 redirect_from: 
   - /about/
