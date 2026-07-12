@@ -40,7 +40,7 @@ Beyond cloud infrastructure, my techniques have been applied to:
 - Senior Area Chair, KDD ADS Track, 2025
 - Program Committee Member: KDD, WWW, ICDM, CIKM
 
-## 💼 Research Projects {#projects}
+## 💼 Research Projects
 ### 📌 National Key R&D Program of China (2024.12 – 2027.11)
 - Title: Intelligent Quality Control and Traceability Technology for Manufacturing Process
 - Role: Core Team Member
@@ -68,7 +68,7 @@ Beyond cloud infrastructure, my techniques have been applied to:
 - Full Title: Theory and Methodology of Manufacturing Big Data Value Mining
 - Role: Core Team Member
 
-## 🎓 Education Background {#edu}
+## 🎓 Education Background
 ### Doctor of Philosophy (2024.04 – 2028.03 (expected))
 - Institution: Shanghai Jiao Tong University, School of Computer Science
 - Program: Combined Master-PhD Track
@@ -79,7 +79,7 @@ Beyond cloud infrastructure, my techniques have been applied to:
 ### Bachelor of Science (2018.09 – 2022.06)
 - Institution: Shanghai Jiao Tong University, Department of Computer Science
 
-## 🏆 Honors & Awards {#awards}
+## 🏆 Honors & Awards
 1. 🥇 Best Paper Award, WASA 2025
 2. 🎖 Huatai Technology Securities Scholarship (2024)
 3. 🎓 Doctoral Scholarship, SJTU (2025)
@@ -87,7 +87,7 @@ Beyond cloud infrastructure, my techniques have been applied to:
 5. 🎓 Doctoral Scholarship, SJTU (2023)
 6. 🎓 Master Scholarship, SJTU (2022)
 
-## 📝 Patents (Under Substantive Examination) {#patents}
+## 📝 Patents (Under Substantive Examination)
 1. 📌 Resource allocation determination, model training method and device
 Patent No.: CN202510905893.2 | 1st Inventor | Status: Under Substantive Examination
 2. 📌 Workload prediction method and device for service clusters
