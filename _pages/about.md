@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-{#about-top}
+
 I am a Ph.D. candidate in the School of Computer Science and Engineering at Shanghai Jiao Tong University (SJTU), enrolled in a combined master-doctor program since 2024. I am co-supervised by [Prof. Guihai Chen](https://cs.sjtu.edu.cn/~chen-guihai/) and [Prof. Xiaofeng Gao](https://cs.sjtu.edu.cn/~gao-xiaofeng/).
 
 ## 🔍 Research Interests
