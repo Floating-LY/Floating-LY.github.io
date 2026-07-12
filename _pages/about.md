@@ -87,7 +87,7 @@ Beyond cloud infrastructure, my techniques have been applied to:
 5. 🎓 Doctoral Scholarship, SJTU (2023)
 6. 🎓 Master Scholarship, SJTU (2022)
 
-## 📝 Patents (Under Substantive Examination)
+## 📝 Patents
 1. 📌 Resource allocation determination, model training method and device
 Patent No.: CN202510905893.2 | 1st Inventor | Status: Under Substantive Examination
 2. 📌 Workload prediction method and device for service clusters
