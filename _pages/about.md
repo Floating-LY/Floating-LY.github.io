@@ -41,7 +41,7 @@ Beyond cloud infrastructure, my techniques have been applied to:
 - Program Committee Member: KDD, WWW, ICDM, CIKM
 
 
-<h2 id="research-projects">## 💼 Research Projects</h2>
+<h2 id="research-projects">💼 Research Projects</h2>
 
 ### 📌 National Key R&D Program of China (2024.12 – 2027.11)
 - Title: Intelligent Quality Control and Traceability Technology for Manufacturing Process
@@ -71,7 +71,7 @@ Beyond cloud infrastructure, my techniques have been applied to:
 - Role: Core Team Member
 
 
-<h2 id="education-background">## 🎓 Education Background</h2>
+<h2 id="education-background">🎓 Education Background</h2>
 ### Doctor of Philosophy (2024.04 – 2028.03 (expected))
 - Institution: Shanghai Jiao Tong University, School of Computer Science
 - Program: Combined Master-PhD Track
@@ -82,7 +82,7 @@ Beyond cloud infrastructure, my techniques have been applied to:
 ### Bachelor of Science (2018.09 – 2022.06)
 - Institution: Shanghai Jiao Tong University, Department of Computer Science
   
-<h2 id="honors-awards">## 🏆 Honors & Awards</h2>
+<h2 id="honors-awards">🏆 Honors & Awards</h2>
 
 1. 🥇 Best Paper Award, WASA 2025
 2. 🎖 Huatai Technology Securities Scholarship (2024)
