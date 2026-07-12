@@ -11,11 +11,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  # - title: "CV"
-  #   url: /cv/
-    
-  # # - title: "CV"
-  # #   url: /cv-json/
-    
-  # - title: "Guide"
-  #   url: /markdown/
+  - title: "Research Projects"
+    url: /#research-projects
+
+  - title: "Education"
+    url: /#education-background
+
+  - title: "Honors & Awards"
+    url: /#honors-awards
