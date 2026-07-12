@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am a Ph.D. candidate in the School of Computer Science and Engineering at Shanghai Jiao Tong University (SJTU), enrolled in a combined master-doctor program since 2024. I am co-supervised by [Prof. Guihai Chen](https://cs.sjtu.edu.cn/~chen-guihai/) and [Prof. Xiaofeng Gao](https://cs.sjtu.edu.cn/~gao-xiaofeng/).
+I am a Ph.D. candidate in the School of Computer Science and Engineering at Shanghai Jiao Tong University (SJTU), enrolled in a combined master-doctor program since 2024. I am co-supervised by [Prof. Guihai Chen](https://scholar.google.com/citations?user=rqZWbYgAAAAJ) and [Prof. Xiaofeng Gao]([https://cs.sjtu.edu.cn/~gao-xiaofeng/](https://scholar.google.com/citations?user=mbGafk4AAAAJ)).
 
 ## 🔍 Research Interests
 My research sits at the intersection of time series analysis, service resource scheduling, and data mining. I focus on translating advanced forecasting and scheduling algorithms into deployable systems that address critical industrial pain points—high computing costs and unstable scheduling in high-performance cloud service systems, urban computing, and advanced manufacturing.
