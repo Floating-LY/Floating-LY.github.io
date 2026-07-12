@@ -35,7 +35,7 @@ Beyond cloud infrastructure, my techniques have been applied to:
 
 - **Urban Management**: Spatio-temporal event forecasting for uncivilized urban events and ride-hailing demand prediction under weather-conditioned multi-graph networks. 
 - **Advanced Manufacturing**: Quality control and traceability for manufacturing processes under the National Key R&D Program, collaborating with NIO and the China Electronics Standardization Institute.
-- 
+  
 ## 📜 Academic Service
 - Senior Area Chair, KDD ADS Track, 2025
 - Program Committee Member: KDD, WWW, ICDM, CIKM
