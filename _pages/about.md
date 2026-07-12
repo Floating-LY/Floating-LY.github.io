@@ -19,12 +19,12 @@ I believe the ultimate value of data mining research lies in its tangible impact
 
 ## 🌐 Industrial Experience
 
-### 🤝 Cloud Service Resource Autoscaling — Ant Group (Fundamental Intelligent Technology Dept.) | 2023.06 – Present
+### 🤝 Cloud Service Resource Autoscaling — Ant Group (Fundamental Intelligent Dept.) | 2023.06 – Present
   - Long-term research intern designing a **cross-service joint prediction and auto-scaling framework** for GPU inference clusters. *(Published in IJCAI 2026)*
   - Replaced traditional single-service threshold-based scaling by modeling dynamic inter-service dependencies via spatio-temporal graph neural networks. *(Published in KDD 2024 and TSC 2026)*
   - Online A/B experiments demonstrated a **33.10% reduction in CPU core-hour consumption**, directly contributing to greener computing and lower inference costs.
 
-### 🤝 Database Workload Prediction — ByteDance (Fundamental Architecture Dept., ByteBrain) | 2022.07 – 2023.05
+### 🤝 Database Workload Prediction — ByteDance (Fundamental Architecture Dept) | 2022.07 – 2023.05
   - Research intern on dynamic database workload prediction.
   - Developed an **ensemble online adaptive tracking algorithm** with a **theoretical linear convergence guarantee**. *(Published in KDD 2023 and TKDE 2026)*
   - Deployed to improve cluster resource allocation efficiency in production environments.
