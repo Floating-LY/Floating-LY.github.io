@@ -40,7 +40,7 @@ Beyond cloud infrastructure, my techniques have been applied to:
 - **Advanced Manufacturing**: Quality control and traceability for manufacturing processes under the National Key R&D Program, collaborating with NIO and the China Electronics Standardization Institute.
   
 ## 📜 Academic Service
-- Senior Area Chair, KDD ADS Track, 2025
+- Senior Area Chair, KDD ADS Track, 2026
 - Program Committee Member: KDD, WWW, ICDM, CIKM
 
 <h2 id="pubs">📰 Publications</h2>
