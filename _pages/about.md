@@ -13,6 +13,9 @@ I am a Ph.D. candidate in the School of Computer Science and Engineering at Shan
 ## 🔍 Research Interests
 My research sits at the intersection of time series analysis, service resource scheduling, and data mining. I focus on translating advanced forecasting and scheduling algorithms into deployable systems that address critical industrial pain points—high computing costs and unstable scheduling in high-performance cloud service systems, urban computing, and advanced manufacturing.
 
+## 📰 News
+- 2026.07: Honored to be selected for the Chinese Institute of Electronics - Tencent Doctoral Incentive Program (Hunyuan Large Model Special Project, Top 44 nationwide).
+
 ## 👨‍🎓 Research Philosophy: From Algorithms to Production
 
 I believe the ultimate value of data mining research lies in its tangible impact on real-world systems. My work follows a full-stack methodology: identifying operational bottlenecks in production environments → designing theoretically grounded predictive models → deploying and validating solutions at scale.
@@ -110,15 +113,16 @@ Beyond cloud infrastructure, my techniques have been applied to:
   
 <h2 id="honors-awards">🏆 Honors & Awards</h2>
 
-1. 🥇 Best Paper Award, WASA 2025
-2. 🎖 Huatai Technology Securities Scholarship (2024)
-3. 🎓 Doctoral Academic Scholarship, SJTU (2025)
-4. 🎓 Doctoral Academic Scholarship, SJTU (2024)
-5. 🎓 Doctoral Academic Scholarship, SJTU (2023)
-6. 🎓 Master Academic Scholarship, SJTU (2022)
+1. 🎓 Master Academic Scholarship, SJTU (2022)
+2. 🎓 Doctoral Academic Scholarship, SJTU (2023)
+3. 🎓 Doctoral Academic Scholarship, SJTU (2024)
+4. 🎓 Doctoral Academic Scholarship, SJTU (2025)
+5. 🎖 Huatai Technology Securities Scholarship (2024)
+6. 🥇 Best Paper Award, WASA 2025
+7. 🎖 Chinese Institute of Electronics - Tencent Doctoral Incentive Program (Hunyuan Large Model Special Project), 2026 (Top 44 nationwide)
 
 ## 📝 Patents
-1. 📌 Resource allocation determination, model training method and device
+1. 📌 Resource allocation determination, model training method, and device
 Patent No.: CN202510905893.2 | 1st Inventor | Status: Under Substantive Examination
 2. 📌 Workload prediction method and device for service clusters
 Patent No.: CN202410195025.5 | 1st Inventor | Status: Under Substantive Examination
