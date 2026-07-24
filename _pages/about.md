@@ -14,7 +14,7 @@ I am a Ph.D. candidate in the School of Computer Science and Engineering at Shan
 My research sits at the intersection of time series analysis, service resource scheduling, and data mining. I focus on translating advanced forecasting and scheduling algorithms into deployable systems that address critical industrial pain points—high computing costs and unstable scheduling in high-performance cloud service systems, urban computing, and advanced manufacturing.
 
 ## 📰 News
-- 2026.07: Honored to be selected for the Chinese Institute of Electronics - Tencent Doctoral Incentive Program (Hunyuan Large Model Special Project, Top 44 nationwide).
+- 2026.07: Honored to be selected for the **Chinese Institute of Electronics - Tencent Doctoral Incentive Program** (Hunyuan Large Model Special Project, Top 44 nationwide).
 
 ## 👨‍🎓 Research Philosophy: From Algorithms to Production
 
