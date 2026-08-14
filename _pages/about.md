@@ -14,7 +14,8 @@ I am a Ph.D. candidate in the School of Computer Science and Engineering at Shan
 My research sits at the intersection of time series analysis, service resource scheduling, and data mining. I focus on translating advanced forecasting and scheduling algorithms into deployable systems that address critical industrial pain points—high computing costs and unstable scheduling in high-performance cloud service systems, urban computing, and advanced manufacturing.
 
 ## 📰 News
-- 2026.07: Honored to be selected for the **Chinese Institute of Electronics - Tencent Doctoral Incentive Program** (Hunyuan Large Model Special Project, Top 44 nationwide).
+- 2026.08:  Receive the Best Paper Award at KDD 2026 Workshop on Uncertainty Reasoning and Quantification in Decision Making.
+- 2026.07: Be selected for the **Chinese Institute of Electronics - Tencent Doctoral Incentive Program** (Hunyuan Large Model Special Project, Top 44 nationwide).
 
 ## 👨‍🎓 Research Philosophy: From Algorithms to Production
 
@@ -48,7 +49,7 @@ Beyond cloud infrastructure, my techniques have been applied to:
 ### 2026
 
 - **Yang Luo**, Yiheng Wang, Linyi Long, Tengwei Cai, Xiaofeng Gao, Guihai Chen. **STDPS: State-Aware Spatio-Temporal Workload Distribution Prediction for Cloud Service Scaling**. *IEEE Transactions on Services Computing (TSC)*, 2026. **CCF-A**
-- **Yang Luo**, Zhemeng Yu, Yikang Fu, Wei Lu, Lintao Ma, Xiaofeng Gao, Guihai Chen. **JointScaler: A Hierarchical Multi-Indicator Distribution Forecasting Approach for Uncertainty-Aware Joint Scaling in Cloud Services**. *International Joint Conference on Artificial Intelligence (IJCAI)*, 2026. **CCF-A** *(Submission time applies to the 6th edition CCF recommended list)* 
+- **Yang Luo**, Zhemeng Yu, Yikang Fu, Wei Lu, Lintao Ma, Xiaofeng Gao, Guihai Chen. **JointScaler: A Hierarchical Multi-Indicator Distribution Forecasting Approach for Uncertainty-Aware Joint Scaling in Cloud Services**. *International Joint Conference on Artificial Intelligence (IJCAI)*, 2026. **CCF-A** 
 - Jiadong Chen, **Yang Luo**, Xiuqi Huang, Fuxin Jiang, Yangguang Shi, Tieying Zhang, Xiaofeng Gao. **Uncertainty-Aware Online Time Series Multi-Step Forecasting Framework in Cloud Systems**. *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, 2026. **CCF-A**
 - Mohan Gao, Zhemeng Yu, **Yang Luo**, Lintao Ma, Yinbo Sun, Yuchen Fang, Xiaofeng Gao. **Macro-Micro Collaborative Learning for Logical Data Center Microservice Indicators Forecasting**. *The Web Conference (WWW)*, 2026. **CCF-A**
 - Chen Hu, Yujie Wan, **Yang Luo**, Xiaofeng Gao. **DBE-Net: A Dual-dimensional Band Encoder Network for Unsupervised Anomaly Detection in Self-Piercing Riveting**. KDD Workshop on Uncertainty Reasoning and Quantification in Decision Making (UDM@KDD), 2026.
@@ -121,6 +122,7 @@ Beyond cloud infrastructure, my techniques have been applied to:
 5. 🎖 Huatai Technology Securities Scholarship (2024)
 6. 🥇 Best Paper Award, WASA 2025
 7. 🎖 Chinese Institute of Electronics - Tencent Doctoral Incentive Program (Hunyuan Large Model Special Project), 2026 (Top 44 nationwide)
+8. 🥇 Best Paper Award, KDD 2026 Workshop on Uncertainty Reasoning and Quantification in Decision Making
 
 ## 📝 Patents
 1. 📌 Resource allocation determination, model training method, and device
