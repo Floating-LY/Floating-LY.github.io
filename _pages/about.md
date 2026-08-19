@@ -119,10 +119,11 @@ Beyond cloud infrastructure, my techniques have been applied to:
 2. 🎓 Doctoral Academic Scholarship, SJTU (2023)
 3. 🎓 Doctoral Academic Scholarship, SJTU (2024)
 4. 🎓 Doctoral Academic Scholarship, SJTU (2025)
-5. 🎖 Huatai Technology Securities Scholarship (2024)
-6. 🥇 Best Paper Award, WASA 2025
-7. 🎖 Chinese Institute of Electronics - Tencent Doctoral Incentive Program (Hunyuan Large Model Special Project), 2026 (Top 44 nationwide)
-8. 🥇 Best Paper Award, KDD 2026 Workshop on Uncertainty Reasoning and Quantification in Decision Making
+5. 🎖 KDD 2025 OutStanding Reviewer (Top 10%)
+6. 🎖 Huatai Technology Securities Scholarship (2024)
+7. 🥇 Best Paper Award, WASA 2025
+8. 🎖 Chinese Institute of Electronics - Tencent Doctoral Incentive Program (Hunyuan Large Model Special Project), 2026 (Top 44 nationwide)
+9. 🥇 Best Paper Award, KDD 2026 Workshop on Uncertainty Reasoning and Quantification in Decision Making
 
 ## 📝 Patents
 1. 📌 Resource allocation determination, model training method, and device
