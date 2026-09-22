@@ -14,7 +14,8 @@ I am a Ph.D. candidate in the School of Computer Science and Engineering at Shan
 My research sits at the intersection of time series analysis, service resource scheduling, and data mining. I focus on translating advanced forecasting and scheduling algorithms into deployable systems that address critical industrial pain points in high-performance cloud service systems, urban computing, and advanced manufacturing.
 
 ## 📰 News
-- 2026.08:  Receive the Best Paper Award at KDD 2026 Workshop on Uncertainty Reasoning and Quantification in Decision Making.
+- 2026.09：Joined Tencent Technology and Engineering Group (TEG) – Hunyuan​ as a research intern, focusing on resource management and optimization for large-scale AI workloads.
+- 2026.08: Receive the Best Paper Award at KDD 2026 Workshop on Uncertainty Reasoning and Quantification in Decision Making.
 - 2026.07: Be selected for the **Chinese Institute of Electronics - Tencent Doctoral Incentive Program** (Hunyuan Large Model Special Project, Top 44 nationwide).
 
 ## 👨‍🎓 Research Philosophy: From Algorithms to Production
@@ -123,7 +124,7 @@ Beyond cloud infrastructure, my techniques have been applied to:
 6. 🎖 Huatai Technology Securities Scholarship (2024)
 7. 🥇 Best Paper Award, WASA 2025
 8. 🎖 Chinese Institute of Electronics - Tencent Doctoral Incentive Program (Hunyuan Large Model Special Project), 2026 (Top 44 nationwide)
-9. 🥇 Best Paper Award, KDD 2026 Workshop on Uncertainty Reasoning and Quantification in Decision Making
+9. 🥇 Best Paper Award, KDD 2026 Workshop on Uncertainty Reasoning and Quantification in Decision Making (UDM)
 
 ## 📝 Patents
 1. 📌 Resource allocation determination, model training method, and device
