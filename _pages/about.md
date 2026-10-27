@@ -14,7 +14,8 @@ I am a Ph.D. candidate in the School of Computer Science and Engineering at Shan
 My research sits at the intersection of time series analysis, service resource scheduling, and data mining. I focus on translating advanced forecasting and scheduling algorithms into deployable systems that address critical industrial pain points in high-performance cloud service systems, urban computing, and advanced manufacturing.
 
 ## 📰 News
-- 2026.09：Joined Tencent Technology and Engineering Group (TEG) – Hunyuan​ as a research intern, focusing on resource management and optimization for large-scale AI workloads.
+- 2026.10: Our the paper "多模态数据融合的制造质量异常检测方法 (A Multimodal Data Fusion Method for Manufacturing Quality Anomaly Detection)"is accepted by 软件学报 (Journal of Software). **CCF-A / T1**
+- 2026.09: Join Tencent Technology and Engineering Group (TEG) – Hunyuan​ as a research intern, focusing on resource management and optimization for large-scale AI workloads.
 - 2026.08: Receive the Best Paper Award at KDD 2026 Workshop on Uncertainty Reasoning and Quantification in Decision Making.
 - 2026.07: Be selected for the **Chinese Institute of Electronics - Tencent Doctoral Incentive Program** (Hunyuan Large Model Special Project, Top 44 nationwide).
 
@@ -48,7 +49,7 @@ Beyond cloud infrastructure, my techniques have been applied to:
 <h2 id="pubs">📰 Publications</h2>
 
 ### 2026
-
+- **Yang Luo**, Zhaoxiang Zhang, Zhiheng Li, Yongquan Jia, Guihai Chen. **多模态数据融合的制造质量异常检测方法 (A Multimodal Data Fusion Method for Manufacturing Quality Anomaly Detection)**. *软件学报 (Journal of Software, in Chinese)*, 2026. **CCF-A / T1**
 - **Yang Luo**, Yiheng Wang, Linyi Long, Tengwei Cai, Xiaofeng Gao, Guihai Chen. **STDPS: State-Aware Spatio-Temporal Workload Distribution Prediction for Cloud Service Scaling**. *IEEE Transactions on Services Computing (TSC)*, 2026. **CCF-A**
 - **Yang Luo**, Zhemeng Yu, Yikang Fu, Wei Lu, Lintao Ma, Xiaofeng Gao, Guihai Chen. **JointScaler: A Hierarchical Multi-Indicator Distribution Forecasting Approach for Uncertainty-Aware Joint Scaling in Cloud Services**. *International Joint Conference on Artificial Intelligence (IJCAI)*, 2026. **CCF-A** 
 - Jiadong Chen, **Yang Luo**, Xiuqi Huang, Fuxin Jiang, Yangguang Shi, Tieying Zhang, Xiaofeng Gao. **Uncertainty-Aware Online Time Series Multi-Step Forecasting Framework in Cloud Systems**. *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, 2026. **CCF-A**
