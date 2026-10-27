@@ -24,8 +24,12 @@ My research sits at the intersection of time series analysis, service resource s
 I believe the ultimate value of data mining research lies in its tangible impact on real-world systems. My work follows a full-stack methodology: identifying operational bottlenecks in production environments → designing theoretically grounded predictive models → deploying and validating solutions at scale.
 
 ## 🌐 Industrial Experience
+### 🤝 LLM Evaluation Service Resource Scheduling — Tencent TEG (Hunyuan) | 2026.09 – Present
+  - Research intern working on **resource scheduling and management for large-scale LLM evaluation services** in Hunyuan.
+  - Investigating scheduling and optimization strategies to improve GPU resource utilization and shorten evaluation turnaround across **concurrent, heterogeneous evaluation workloads**.
+  - Currently in progress, with the goal of supporting faster and more cost-efficient iteration from model training to evaluation and release.
 
-### 🤝 Cloud Service Resource Autoscaling — Ant Group  | 2023.06 – Present
+### 🤝 Cloud Service Resource Autoscaling — Ant Group  | 2023.06 – 2026.08
   - Long-term research intern designing a **cross-service joint prediction and auto-scaling framework** for GPU inference clusters. 
   - Replaced traditional single-service threshold-based scaling by modeling dynamic inter-service dependencies via spatio-temporal graph neural networks. 
   - Online A/B experiments demonstrated a **33.10% reduction in CPU core-hour consumption**, directly contributing to greener computing and lower inference costs.
